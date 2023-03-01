@@ -1,0 +1,38 @@
+h1{
+    background-color: #d627d0;
+    padding: 20px;
+    text-align: center;
+    position: relative;
+    width: 100%;
+    z-index: 1;
+    top: 0;
+    left: 0;
+}
+
+.garam h2{
+    max-width: 100%;
+    width: 1200px;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    position: relative;
+}
+
+.bangkok h2{
+    width: 1200px;
+    margin: 0;
+    padding: 0;
+}
+
+.shake h2{
+    width: 1200px;
+    margin: 0;
+    padding: 0;
+}
+
+footer{
+    background: #d627d0;
+    color: white;
+    padding: 10px;
+    text-align:center;
+}
