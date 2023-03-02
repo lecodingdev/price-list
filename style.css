@@ -9,8 +9,8 @@ h1{
     left: 0;
 }
 
-.garam h2{
-    max-width: 100%;
+.garam h2{ 
+max-width: 100%;
     width: 1200px;
     margin: 0;
     padding: 0;
@@ -29,6 +29,11 @@ h1{
     margin: 0;
     padding: 0;
 }
+
+/*div{
+    width: 10%;
+    white-space: nowrap;
+}*/
 
 footer{
     background: #d627d0;
